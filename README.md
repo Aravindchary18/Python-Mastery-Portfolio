@@ -1,6 +1,6 @@
 # Python Mastery Portfolio
 
-**28+ Advanced Python Projects** showcasing OOP, algorithms, games, and production-ready code. **Built for AI/ML internship applications**.
+**28+ basic-Advanced Python Projects** showcasing OOP, algorithms, games, and production-ready code. **Built for AI/ML internship applications**.
 
 ## 🚀 Highlights
 **Games:** Blackjack, Rock Paper Scissors  
@@ -31,7 +31,7 @@ python "rock,paper,scissor game program.py"
 🎯 Internship Ready:
 ✅ 28 production-ready files
 
-✅ Games + enterprise patterns
+✅ Games patterns
 
 ✅ Clean documented code
 
@@ -39,6 +39,5 @@ python "rock,paper,scissor game program.py"
 
 ✅ AI/ML engineering portfolio
 
-1st Year BTech AI/ML | High-Paying Internships 2026
 
 Python Portfolio for AI/ML Engineering | March 2026
