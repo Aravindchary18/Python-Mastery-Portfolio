@@ -29,7 +29,8 @@ python "rock,paper,scissor game program.py"
 ```
 
 🎯 Internship Ready:
-✅ 28 files
+
+✅ 28+ files
 
 ✅ Games patterns
 
